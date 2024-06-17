@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162909628569",
+    "project_id": "cloud-mate-fusion",
+    "storage_bucket": "cloud-mate-fusion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162909628569:android:595376c4161f5eba35f008",
+        "android_client_info": {
+          "package_name": "com.example.cmf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89jjpQTyXuDp7adN6Mf-aAfMN3kRGk4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
