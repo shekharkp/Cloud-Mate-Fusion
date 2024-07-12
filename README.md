@@ -14,3 +14,6 @@ Three Core Tabs:
   2.Terminal Tab: Paste credentials and use the OS CMD directly on your mobile device.
 
   3.Learning Tab: Access a curated list of videos to master different operating systems.
+
+## Screenshots
+![enter image description here](https://media.licdn.com/dms/image/D4D22AQFDrDnVA6DseQ/feedshare-shrink_2048_1536/0/1720781998168?e=1723680000&v=beta&t=HKNYJCgCwFhPipSSKPI52nFph9ytUBoofqYHNHjfqKE)
