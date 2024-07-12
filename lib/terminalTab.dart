@@ -119,7 +119,9 @@ class _TerminalTabState extends State<TerminalTab> {
     }
     catch (e)
     {
+      print(e);
       showMessage("Something went wrong...");
+      throw Exception("Smoething went wrong in initterminal function.");
     }
   }
 
